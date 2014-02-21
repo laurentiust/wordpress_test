@@ -1,0 +1,11 @@
+Capfile
+config/deploy.rb
+config/deploy/production.rb
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/wordpress.iml
+.idea/workspace.xml
