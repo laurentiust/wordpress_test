@@ -9,3 +9,7 @@ config/deploy/production.rb
 .idea/vcs.xml
 .idea/wordpress.iml
 .idea/workspace.xml
+wordpress/wp-config.php
+wordpress/wp-content/*
+!wordpress/wp-content/plugins/
+!wordpress/wp-content/themes/
