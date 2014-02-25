@@ -13,3 +13,5 @@ wordpress/wp-config.php
 wordpress/wp-content/*
 !wordpress/wp-content/plugins/
 !wordpress/wp-content/themes/
+wordpress/wp-config_dev.php
+wordpress/wp-config_local.php
